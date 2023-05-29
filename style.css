@@ -1,0 +1,64 @@
+/* Stile generale della pagina */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://i.pinimg.com/originals/bc/48/e6/bc48e63bb97a56891700a8d681d0b802.jpg");
+        background-size: cover;
+        
+}
+
+header {
+    background-color: rgb(198, 198, 238);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #fff;
+}
+
+p{
+    color: #fff;
+}
+main {
+    margin: 20px;
+  height: 500px;
+}
+
+section {
+  
+   
+    margin-bottom: 30px;
+    
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
+footer {
+    background-color: rgb(198, 198, 238);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+ 
+li a{
+    color:#fff;
+}
+
+

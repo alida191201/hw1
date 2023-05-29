@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url("https://cdn.pixabay.com/photo/2023/01/29/00/02/anime-wallpaper-7751936_1280.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    
+    
+}
+
+h2 {
+    color: white;
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+
